@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9257217814",
+    "project_id": "chatsapp-cd288",
+    "storage_bucket": "chatsapp-cd288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9257217814:android:51d102736cd6e3a5e2ea37",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9257217814-uv8l16fm1m9voel885ha88n8i6m1pso6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1-NUL48JpKPIkIuHc_XZQBWdVu0ecJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9257217814-uv8l16fm1m9voel885ha88n8i6m1pso6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
